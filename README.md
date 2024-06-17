@@ -1,4 +1,4 @@
-# Hello! My name is Bernardo Henrique
+# Fala Dev !! Aqui é o Bernardo Henrique
 - :computer: Estudante de Análise e Desenvolvimento de Sistemas - UNINTER 3/5
 - :coffee: Java Jr Full Stack Developer 
 
